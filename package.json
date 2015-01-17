@@ -20,11 +20,6 @@
   "dependencies": [
     "configure",
     "express",
-    "logfmt",
     "pi-gpio",
-    "twilio",
-    "underscore",
-    "moment",
-    "sqlite3"
   ]
 }
